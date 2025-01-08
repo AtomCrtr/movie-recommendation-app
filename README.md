@@ -100,6 +100,7 @@
 ## 📋 **Livrables**
 - **Google Slides :** [Présentation ici](https://docs.google.com/presentation/d/1K1pr7uvhdbb3xMq3mcDfZKsLTJVWkJJGXbcdvbNOBT8/edit?usp=sharing)
 - **Dépôt Streamlit :** [Code source ici](Projet%202/Site/site.py).
+- **Google Collab :** [Code ici](https://colab.research.google.com/drive/1duQXYu8l2x3VLOw4mfs9PNPvnlwJ3b_K?usp=sharing)
 
 ---
 
