@@ -86,7 +86,7 @@
 ### Exécution
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/ton_nom_utilisateur/movie-recommendation-app.git
+   git clone https://github.com/AtomCrtr/movie-recommendation-app.git
    cd movie-recommendation-app
    ```
 2. Lancez l'application :
