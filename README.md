@@ -98,7 +98,7 @@
 ---
 
 ## 📋 **Livrables**
-- **Google Slides :** [Présentation](#).
+- **Google Slides :** [Présentation](https://docs.google.com/presentation/d/1K1pr7uvhdbb3xMq3mcDfZKsLTJVWkJJGXbcdvbNOBT8/edit?usp=sharing)
 - **Dépôt Streamlit :** [Code source ici](#).
 
 ---
