@@ -86,20 +86,20 @@
 ### Exécution
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/AtomCrtr/movie-recommendation-app.git
+   git clone https://github.com/ton_nom_utilisateur/movie-recommendation-app.git
    cd movie-recommendation-app
    ```
 2. Lancez l'application :
    ```bash
-   streamlit run site.py
+   streamlit run Projet\ 2/Site/site.py
    ```
 3. Ouvrez le lien généré dans votre navigateur.
 
 ---
 
 ## 📋 **Livrables**
-- **Google Slides :** [Présentation](https://docs.google.com/presentation/d/1K1pr7uvhdbb3xMq3mcDfZKsLTJVWkJJGXbcdvbNOBT8/edit?usp=sharing)
-- **Dépôt Streamlit :** [Code source ici](Projet 2/Site/site.py)
+- **Google Slides :** [Présentation ici](https://docs.google.com/presentation/d/1K1pr7uvhdbb3xMq3mcDfZKsLTJVWkJJGXbcdvbNOBT8/edit?usp=sharing)
+- **Dépôt Streamlit :** [Code source ici](Projet%202/Site/site.py).
 
 ---
 
