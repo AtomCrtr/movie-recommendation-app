@@ -34,6 +34,24 @@
   - Page 1 : Recommandations personnalisées.
   - Page 2 : Films à l'affiche dans la Creuse (scrapés via Allociné).
   - Page 3 : Quiz interactif pour des suggestions sur mesure.
+ 
+## 🔗 Captures d'écran
+### Page d'accueil
+![Page d'accueil](![Capture d'écran 2025-01-13 211554](https://github.com/user-attachments/assets/dc6080c4-7ea8-4846-8083-8f3fde8971df))
+![Page d'accueil](![Capture d'écran 2025-01-13 211617](https://github.com/user-attachments/assets/2c7da423-b59e-4ce5-912a-06037c68f3b0))
+![Page d'accueil](![Capture d'écran 2025-01-13 211638](https://github.com/user-attachments/assets/78cbbcba-d3f7-4497-857c-43a6108104c6))
+![Page d'accueil](![Capture d'écran 2025-01-13 211659](https://github.com/user-attachments/assets/3d4b17ec-cce7-4166-9934-04c1e0ae3e6f))
+![Page d'accueil](![Capture d'écran 2025-01-13 211712](https://github.com/user-attachments/assets/4f30feb3-c21e-47c8-8ec2-4c34abc5cc30))
+
+### Avis des utilisateurs
+![Avis](![Capture d'écran 2025-01-13 211748](https://github.com/user-attachments/assets/4e5408fb-0671-4f78-9e5c-4c22f3fd754c))
+
+### Liste des films en Creuse
+![Films en Creuse](![Capture d'écran 2025-01-13 211807](https://github.com/user-attachments/assets/53970bb6-28a8-4437-a9fa-be68ebdaeaa5)
+![Films en Creuse](![Capture d'écran 2025-01-13 211821](https://github.com/user-attachments/assets/6e37264b-1cbf-4e60-b687-76cba41cb639))
+
+### Quizz de recommandations
+![Quizz](![Capture d'écran 2025-01-13 211851](https://github.com/user-attachments/assets/2fd62793-993a-4605-9ff3-0fd597e49cd6))
 
 ---
 
