@@ -43,9 +43,6 @@
 ![Capture d'écran 2025-01-13 211659](https://github.com/user-attachments/assets/3d4b17ec-cce7-4166-9934-04c1e0ae3e6f)
 ![Capture d'écran 2025-01-13 211712](https://github.com/user-attachments/assets/4f30feb3-c21e-47c8-8ec2-4c34abc5cc30)
 
-### Avis des utilisateurs
-(https://github.com/user-attachments/assets/4e5408fb-0671-4f78-9e5c-4c22f3fd754c)
-
 ### Liste des films en Creuse
 ![Capture d'écran 2025-01-13 211807](https://github.com/user-attachments/assets/53970bb6-28a8-4437-a9fa-be68ebdaeaa5)
 ![Capture d'écran 2025-01-13 211821](https://github.com/user-attachments/assets/6e37264b-1cbf-4e60-b687-76cba41cb639)
